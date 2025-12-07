@@ -10,5 +10,7 @@ public static class Program
         Console.WriteLine(Day2.InvalidId("./day2.txt"));
         Console.WriteLine(Day2Part2.InvalidId("./day2.txt"));
         Console.WriteLine(Day3Part2.Joltage("./day3.txt"));
+        Console.WriteLine(Day4.Forklifts("./day4.txt"));
+        Console.WriteLine(Day4Part2.Forklifts("./day4.txt"));
     }
 }
