@@ -1,4 +1,5 @@
-﻿using AdventOfCode2025;
+﻿using System.Numerics;
+using AdventOfCode2025;
 
 
 public static class Program
@@ -12,5 +13,6 @@ public static class Program
         Console.WriteLine(Day3Part2.Joltage("./day3.txt"));
         Console.WriteLine(Day4.Forklifts("./day4.txt"));
         Console.WriteLine(Day4Part2.Forklifts("./day4.txt"));
+        Console.WriteLine(Day5Part2.Ingredients("./day5.txt"));
     }
 }
