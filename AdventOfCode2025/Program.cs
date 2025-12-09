@@ -14,5 +14,6 @@ public static class Program
         Console.WriteLine(Day4.Forklifts("./day4.txt"));
         Console.WriteLine(Day4Part2.Forklifts("./day4.txt"));
         Console.WriteLine(Day5Part2.Ingredients("./day5.txt"));
+        Console.WriteLine(Day6Part2.Math("./day6.txt"));
     }
 }
